@@ -16,6 +16,7 @@ Este repositório publica o site oficial da escola: cursos, condições, contato
 - Sobrancelha
 - Massagem
 - Trança
+- Depilação
 
 ## Contato
 
